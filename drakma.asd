@@ -1,4 +1,4 @@
-;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Base: 10 -*-
 ;;; $Header: /usr/local/cvsrep/drakma/drakma.asd,v 1.49 2008/05/24 03:21:22 edi Exp $
 
 ;;; Copyright (c) 2006-2012, Dr. Edmund Weitz.  All rights reserved.

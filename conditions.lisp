@@ -1,4 +1,4 @@
-;;; -*- Mode: LISP; Syntax: ANSI-COMMON-LISP; Base: 10 -*-
+;;; -*- Mode: LISP; Syntax: ANSI-COMMON-LISP; Base: 10; Package: DRAKMA -*-
 ;;; $Header: /usr/local/cvsrep/odd-streams/conditions.lisp,v 1.5 2007/12/31 01:08:45 edi Exp $
 
 ;;; Copyright (c) 2008-2012, Dr. Edmund Weitz.  All rights reserved.
